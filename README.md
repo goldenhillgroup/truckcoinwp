@@ -1,5 +1,5 @@
 # TruckcoinWP
-A WooCommerce extension for accepting [TRKC - Truckcoin] (https://truckcoin/)
+A WooCommerce extension for accepting [TRKC - Truckcoin](https://truckcoin/)
 
 ## Dependencies
 This plugin is rather simple but there are a few things that need to be set up beforehand.
